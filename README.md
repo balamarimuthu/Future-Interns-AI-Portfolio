@@ -18,14 +18,14 @@ FUTURE_INTERN_AI_PORTFOLIO/
 ├── 📁 02_Churn_Prediction_App/
 │   ├── 📄 app.py
 │   ├── 📄 churn_model.pkl
-│   ├── 📄 telco_churn_cleaned.csv
-│   └── 📄 Churn_Report.md
+│   ├── 📄 churn_prediction_system.ipynb
+│   └── 📄 customer churn prediction.pdf
 │
 └── 📁 03_Advanced_AI_Chatbot/
+    ├── 📄 chatbot_customer_support.pdf
     ├── 📄 app.py
-    ├── 📄 knowledge_base.index
-    ├── 📄 knowledge_base_100k_sample.csv
-    └── 📄 Chatbot_Report.md
+    ├── 📄 customer_support_chatbot.ipynb (Research file)
+    └── 📄 requirements.txt
 ```
 
 ## 📈 Project 1: Sales Forecasting System
@@ -59,7 +59,7 @@ This project involved building a **complete, end-to-end churn prediction system*
 - **Full Application Development:** Designed and built a **two-page Streamlit dashboard** providing both live prediction for individual customers and rich analytics visualizations.
 
 ### 🛠 Tools Used
-- Python, Pandas, Scikit-learn, XGBoost  
+- Python, Pandas, Scikit-learn, XGBoost,RandomForest, Logistic Regression (pickle model -Logistic)
 - Streamlit (for the web application)  
 
 ---
@@ -95,7 +95,7 @@ Each subfolder contains:
 - **Code files** (`.py`)  
 - **Trained models or data assets** (where applicable)  
 - **Detailed project report** in Markdown  
-
+  **Research files** (`.ipynb`)
 Simply open the folder for the project you’re interested in to see all materials.
 
 ---
@@ -108,4 +108,4 @@ Simply open the folder for the project you’re interested in to see all materia
 ---
 
 ## 📬 Contact
-For questions, feedback, or collaboration opportunities, feel free to reach out via [LinkedIn](#) or open an issue in this repository.
+For questions, feedback, or collaboration opportunities, feel free to reach out via [LinkedIn](www.linkedin.com/in/r-bala-marimuthu-380501304) or open an issue in this repository.
