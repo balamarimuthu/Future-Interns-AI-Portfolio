@@ -9,24 +9,24 @@ These projects showcase a **complete, end-to-end understanding** of the data sci
 
 ## 📂 Repository Structure
 
+```text
 FUTURE_INTERN_AI_PORTFOLIO/
 ├── 📁 01_Sales_Forecasting_System/
-│ ├── 📄 sales_forecasting.py
-│ └── 📄 Sales_Forecast_Report.md
+│   ├── 📄 sales_forecasting.py
+│   └── 📄 Sales_Forecast_Report.md
 │
 ├── 📁 02_Churn_Prediction_App/
-│ ├── 📄 app.py
-│ ├── 📄 churn_model.pkl
-│ ├── 📄 telco_churn_cleaned.csv
-│ └── 📄 Churn_Report.md
+│   ├── 📄 app.py
+│   ├── 📄 churn_model.pkl
+│   ├── 📄 telco_churn_cleaned.csv
+│   └── 📄 Churn_Report.md
 │
 └── 📁 03_Advanced_AI_Chatbot/
-├── 📄 app.py
-├── 📄 knowledge_base.index
-├── 📄 knowledge_base_100k_sample.csv
-└── 📄 Chatbot_Report.md
-
----
+    ├── 📄 app.py
+    ├── 📄 knowledge_base.index
+    ├── 📄 knowledge_base_100k_sample.csv
+    └── 📄 Chatbot_Report.md
+```
 
 ## 📈 Project 1: Sales Forecasting System
 
