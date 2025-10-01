@@ -71,11 +71,15 @@ ENV/
 env.bak/
 venv.bak/
 .venv/
+pytorch_env/
 
 # Environment variables
 .env
 .env.local
 .env.*.local
+
+# SECRET FILES
+google_credentials.json
 
 # IDEs
 .vscode/
@@ -106,3 +110,8 @@ desktop.ini
 *.db
 *.sqlite
 *.sqlite3
+
+# LARGE DATA & MODEL FILES
+*.csv
+*.index
+*.pkl
