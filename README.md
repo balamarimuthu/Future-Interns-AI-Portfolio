@@ -95,7 +95,7 @@ Each subfolder contains:
 - **Code files** (`.py`)  
 - **Trained models or data assets** (where applicable)  
 - **Detailed project report** in Markdown  
-  **Research files** (`.ipynb`)
+- **Research files** (`.ipynb`)
 Simply open the folder for the project you’re interested in to see all materials.
 
 ---
