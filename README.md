@@ -12,8 +12,8 @@ These projects showcase a **complete, end-to-end understanding** of the data sci
 ```text
 FUTURE_INTERN_AI_PORTFOLIO/
 ├── 📁 01_Sales_Forecasting_System/
-│   ├── 📄 sales_forecasting.py
-│   └── 📄 Sales_Forecast_Report.md
+│   ├── 📄 project_1.ipynb
+│   └── 📄 Sales Forecasting System.pdf
 │
 ├── 📁 02_Churn_Prediction_App/
 │   ├── 📄 app.py
