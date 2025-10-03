@@ -30,7 +30,6 @@ load_dotenv()
 
 # --- Load API Keys & Config ---
 GOOGLE_PROJECT_ID = os.getenv("GOOGLE_PROJECT_ID")
-# IMPORTANT: Add your Dialogflow Region ID to your .env file!
 DIALOGFLOW_REGION = os.getenv("DIALOGFLOW_REGION") 
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 AIRTABLE_API_KEY = os.getenv("AIRTABLE_API_KEY")
